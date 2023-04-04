@@ -12,3 +12,8 @@
     margin-bottom: 1rem;
     gap: 0.3rem;
 }
+
+.link{
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+}
